@@ -41,8 +41,8 @@
 # define BUSINESS_NAME_MAX_LEN  31
 # define SOURCE_MAX_LEN         31
 
-# define ORDER_BOOK_MAX_LEN     201
-# define ORDER_LIST_MAX_LEN     201
+# define ORDER_BOOK_MAX_LEN     1001
+# define ORDER_LIST_MAX_LEN     1001
 
 # define MAX_PENDING_OPERLOG    100
 # define MAX_PENDING_HISTORY    1000
